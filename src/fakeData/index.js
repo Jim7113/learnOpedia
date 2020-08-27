@@ -1,7 +1,7 @@
 let courseInfo = [
   {
     id: 1,
-    name: "JavaScript Web Projects: 20 Projects to Build Your Portfolio",
+    name: "JavaScript Web Projects : 20 Projects to Build Your Portfolio",
     instructor: "Andrei Neagoie",
     topic: "javascript",
     rating: 4.8,
@@ -11,7 +11,7 @@ let courseInfo = [
   },
   {
     id: 2,
-    name: "Modern Javascript:Complete Guide",
+    name: "Modern Javascript : Complete Guide",
     instructor: "Brad Traversy",
     topic: "javascript",
     rating: 4.8,
@@ -21,7 +21,7 @@ let courseInfo = [
   },
   {
     id: 3,
-    name: "Learn Javascript:From zero to hero",
+    name: "Learn Javascript : From zero to hero",
     instructor: "Colt Steele",
     topic: "javascript",
     rating: 4.6,
@@ -82,7 +82,7 @@ let courseInfo = [
   },
   {
     id: 9,
-    name: "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+    name: "MERN Stack Front To Back : Full Stack React, Redux & Node.js",
     instructor: "Brad Traversy",
     topic: "nodejs",
     rating: 4.4,
@@ -92,7 +92,7 @@ let courseInfo = [
   },
   {
     id: 10,
-    name: "Python for complete beginners(with machine learning)",
+    name: "Python for complete beginner (with machine learning)",
     instructor: "Jose Salvatierra",
     topic: "python",
     rating: 4.8,
